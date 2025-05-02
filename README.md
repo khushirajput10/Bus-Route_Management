@@ -64,16 +64,21 @@ The **Bus Management System** is a web application designed to simplify the proc
 Here are some screenshots of the application in action:
 
 1. **Home Page**:
-   ![home.jpg](static/screenshots/home.jpg)
+   ![home.jpg]![Uploading Image.jpg…]
+
 
 2. **Login Page**:
-   ![login.jpg](static/screenshots/login.jpg)
+   ![login.jpg]![Image (7)](https://github.com/user-attachments/assets/e721be7c-e8e0-491c-9765-42f13988aa90)
+
 
 3. **Sign Up Page**:
-   ![Sign up.jpg](static/screenshots/Sign-up.jpg)
+   ![Sign up.jpg]![Image (5)](https://github.com/user-attachments/assets/0db82aa3-322e-4b18-85a1-63e9b96f3f19)
+
 
 4. **Booking Page**:
-   ![bus booking.jpg](static/screenshots/bus-booking.jpg)
+   ![bus booking.j![Image (3)](https://github.com/user-attachments/assets/296581e6-2ed9-44a0-a844-7a57d3618df5)![Image project](https://github.com/user-attachments/assets/98913306-5f2d-4176-9ef5-61f72236dc4e)
+
+pg]
 
 5. **Booking Confirmation**:
    ![bus booking1 .jpg](static/screenshots/bus-booking1.jpg)
@@ -82,10 +87,12 @@ Here are some screenshots of the application in action:
    ![contact.jpg](static/screenshots/contact.jpg)
 
 7. **My Bookings**:
-   ![my booking.jpg](static/screenshots/my-booking.jpg)
+   ![my booking.jpg]![Image (2)](https://github.com/user-attachments/assets/04d85864-4f75-4632-ae7b-0e47d1345647)
+   
 
 8. **Profile Page**:
-   ![profile.jpg](static/screenshots/profile.jpg)
+   ![profile.jpg![Image (4)](https://github.com/user-attachments/assets/45090257-77ec-4474-b778-435acb672d9b)
+   
 
 9. **About Page**:
    ![about.jpg](static/screenshots/about.jpg)
